@@ -17,9 +17,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{0C9073CD-2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{45D89523-C790-44E6-BDD8-7C304AB40A67}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadMe", "ReadMe", "{9CAB573C-919E-4866-92A8-86BD5BBA24AB}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{9CAB573C-919E-4866-92A8-86BD5BBA24AB}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Documents\01.Clean Architecture With dot net 6.docx = ..\..\..\Documents\01.Clean Architecture With dot net 6.docx
+		Source Links.txt = Source Links.txt
 	EndProjectSection
 EndProject
 Global
