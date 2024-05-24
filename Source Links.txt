@@ -1,1 +1,3 @@
 https://rijsat.com/clean-architecture-with-net-6/
+
+https://www.c-sharpcorner.com/article/clean-architecture-with-net-6-using-entity-framework/

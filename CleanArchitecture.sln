@@ -20,6 +20,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{9CAB573C-919E-4866-92A8-86BD5BBA24AB}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Documents\01.Clean Architecture With dot net 6.docx = ..\..\..\Documents\01.Clean Architecture With dot net 6.docx
+		..\..\..\Documents\01.Clean Architecture With dot net 6.pdf = ..\..\..\Documents\01.Clean Architecture With dot net 6.pdf
+		..\..\..\Documents\02.Clean Architecture With dot net 6.docx = ..\..\..\Documents\02.Clean Architecture With dot net 6.docx
+		..\..\..\Documents\02.Clean Architecture With dot net 6.pdf = ..\..\..\Documents\02.Clean Architecture With dot net 6.pdf
+		..\..\..\Documents\PM Migration.PNG = ..\..\..\Documents\PM Migration.PNG
 		Source Links.txt = Source Links.txt
 	EndProjectSection
 EndProject
